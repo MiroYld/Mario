@@ -28,6 +28,11 @@ Ce programme a été developpé et optimisé pour tourner sur Windows 10. Il a �
 * Executer le programme (flèche verte).
 * Des fenêtres de dialogue vont s'ouvrir, spécifier les fichiers de ressource demandés (sprites.json puis map.json).
 
+### Execution sur linux:
+* ``` cd src/```
+* ``` qmake && make```
+* ```./Mario```
+
 ## Vocabulaire
 * Tiles: carreaux graphiques constituant la carte.
 * Sprites: éléments/objets/entités graphiques (associé à une liste de states).
